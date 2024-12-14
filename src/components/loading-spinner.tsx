@@ -1,6 +1,9 @@
-import { cn } from "@/lib/utils"
-
 export function LoadingSpinner({ className }: { className?: string }) {
+  // Utility function to combine class names conditionally
+  const cn = (...classes: (string | undefined)[]) => {
+    return classes.filter(Boolean).join(' ')
+  }
+
   return (
     <div className={cn("relative flex h-8 w-8", className)}>
       <div className="absolute h-full w-full rounded-full border-2 border-indigo-500/20"></div>
@@ -11,4 +14,3 @@ export function LoadingSpinner({ className }: { className?: string }) {
     </div>
   )
 }
-

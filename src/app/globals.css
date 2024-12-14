@@ -20,7 +20,7 @@
     --accent-foreground: 240 5.9% 10%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
-    --border: 240 5.9% 90%;
+    --border: 240 5.9% 90%; /* Custom border color */
     --input: 240 5.9% 90%;
     --ring: 240 5.9% 10%;
     --radius: 0.75rem;
@@ -49,17 +49,17 @@
   }
 }
 
-.bg-dot-white\/\[0\.1\] {
-  background-image: radial-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px);
-  background-size: 24px 24px;
-}
-
+/* Apply custom border color using CSS variables */
 @layer base {
   * {
-    @apply border-border;
+    border: 1px solid var(--border); /* Apply the border variable */
   }
   body {
     @apply bg-background text-foreground;
   }
 }
 
+.bg-dot-white\/\[0\.1\] {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
