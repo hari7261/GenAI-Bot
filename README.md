@@ -1,7 +1,7 @@
 # **🤖 Gemini AI Chatbot**  
 Your friendly, futuristic AI companion! 🪐  
 
-![Gemini Chat](https://via.placeholder.com/1000x400?text=Gemini+AI+Chatbot+-+Let%27s+Talk!)  
+![Gemini Chat](/Screenshot%202024-12-14%20202810.png)  
 
 ---
 
@@ -88,11 +88,11 @@ Visit `http://localhost:3000` and start chatting with Gemini. 💬
 
 ## **📸 Screenshots**  
 
-### **Homepage**  
-![Homepage](https://via.placeholder.com/800x400?text=Gemini+Chatbot+Homepage+-+Beautiful+UI)
+### **Futurstic**  
+![Homepage](/batmen.jpeg)
 
 ### **Chat in Action**  
-![Chat Example](https://via.placeholder.com/800x400?text=Real-time+AI+Chat+Magic)
+![Chat Example](/image.png)
 
 ---
 
