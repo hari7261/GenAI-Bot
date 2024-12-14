@@ -1,7 +1,8 @@
 # **🤖 Gemini AI Chatbot**  
 Your friendly, futuristic AI companion! 🪐  
 
-![Gemini Chat](/chatbot/Screenshot%202024-12-14%20202810.png)  
+![batmen](https://github.com/user-attachments/assets/47a8ce70-601a-4661-b0f3-70c1bcbc1590)
+
 
 ---
 
@@ -89,10 +90,12 @@ Visit `http://localhost:3000` and start chatting with Gemini. 💬
 ## **📸 Screenshots**  
 
 ### **Futurstic**  
-![Homepage](/chatbot/batmen.jpeg)
+![Screenshot 2024-12-14 203518](https://github.com/user-attachments/assets/0a6232e4-61f0-4ccb-ab39-8304b1842b26)
+
 
 ### **Chat in Action**  
-![Chat Example](/chatbot/image.png)
+![Screenshot 2024-12-14 202810](https://github.com/user-attachments/assets/7208f50d-51bc-4465-b32e-009c3c417a1a)
+
 
 ---
 
